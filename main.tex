@@ -1,0 +1,104 @@
+\documentclass[a4paper]{altacv}
+
+\geometry{left=1cm,right=11cm,marginparwidth=9cm,marginparsep=1cm,top=1cm,bottom=1cm}
+
+
+% If using pdflatex:
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[default]{lato}
+\usepackage[hidelinks]{hyperref}
+
+% If using xelatex or lualatex:
+% \setmainfont{Lato}
+
+% Change the colours if you want to
+\definecolor{azulito}{HTML}{365276}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{heading}{azulito}
+\colorlet{accent}{azulito}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+%% sample.bib contains your publications
+\addbibresource{sample.bib}
+
+\begin{document}
+
+
+\name{Joseph Mottoccanche}
+  \tagline{Cybersecurity Enthusiast • CSFPC}
+\photo{2.5cm}{perfil}
+\personalinfo{%
+  \email{josephmottoccanche.t@uni.pe}
+  \location{Lima, Perú}
+  \linkedin{\href{https://www.linkedin.com/in/mottoccanche-j/}{mottoccanche-j}}
+  \phone{+51 923180186}
+  \github{\href{https://github.com/CLmilo}{CLmilo}} 
+%   \orcid{orcid.org/0000-0000-0000-0000} % Obviously making this up too. If you want to use this field (and also other academicons symbols), add "academicons" option to \documentclass{altacv}
+}
+
+%% Make the header extend all the way to the right, if you want. Extend the right margin by 8cm (=6.8cm marginparwidth + 1.2cm marginparsep)
+\begin{adjustwidth}{}{-8.7cm}
+\makecvheader
+\end{adjustwidth}
+
+
+
+%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
+%% You can always just use \marginpar{...} if you do
+%% not need to align the top of the contents to any
+%% \cvsection title in the "main" bar.
+
+\cvsection[page1sidebar]{Experiencia Laboral}
+
+\cvevent{Practicante Auditoría TI y Ciberseguridad}{Banco de Credito del Perú, Lima}{Oct 2021 -- Nov 2021}{}
+
+\cvsection{Formación}
+
+\cvform{7to Ciclo - Ingeniería de Sistemas}{Universidad Nacional de Ingeniería, Lima}{Agosto 2018 -- Presente}{Quinto Superior}
+
+\divider
+
+\cvsection{Conferencias y Cursos}
+
+\cvevent{Creando una Trayectoria Profesional en Ciberseguridad}{Organización de los Estados Americanos (OEA)}{08/2021-09/2021}{Lima, Perú}
+\begin{itemize}
+  \item Pentesting Web.
+  \item Elaboración de informes ejecutivos.
+\end{itemize}
+
+
+\cvevent{Capacitación Ciberseguridad y Ethical Hacking}{Kunak Consulting}{03/2021-04/2021}{Lima, Perú}
+\begin{itemize}
+\item ISO 27001 y NIST.
+\item Hacking Windows, Linux y uso de Burpsuite.
+\end{itemize}
+
+
+\cvsection{Certificados}
+
+\cvcert{\href{https://drive.google.com/file/d/1ZyKPYFQNQdr4LqrcaTaxvvGPIQRri95_/view?usp=sharing}{Creando una Trayectoria Profesional}}{08/2021-09/2021}
+
+Certificado de conclusión del curso Creando una Trayectoria Profesional (OEA)
+
+\divider
+
+\cvcert{\href{https://drive.google.com/file/d/1BPJ2z9QbTqC9g5F9bGgSnBx9Cdecsg8K/view?usp=sharing}{Cyber Security Foundation - CSFPC™}}{12/2020-12/2021}
+
+CertiProf Professional Knowledge. Certificación basada en el The Cyber Security Body of Knowledge(CyBOK) v1.0.
+
+\divider
+
+\cvcert{\href{https://drive.google.com/file/d/14mfb80HYq8jOKPCfCkIlJ3gAVB0d1Bm4/view?usp=sharing}{CCNA v7: Introduction to Networks}}{08/2021-Presente}
+
+Certificado entregado con honores por resaltar académicamente en el curso de Cisco.
+
+
+\end{document}
