@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.11.14)  14 NOV 2021 03:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.11.14)  16 NOV 2021 10:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/jmt/Documentos/cv/main.tex
-(/home/jmt/Documentos/cv/main.tex
+**/home/jmt/Documentos/CV_Latex/main.tex
+(/home/jmt/Documentos/CV_Latex/main.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (/home/jmt/Documentos/cv/altacv.cls
+L3 programming layer <2021-01-09> xparse <2020-03-03> (/home/jmt/Documentos/CV_Latex/altacv.cls
 Document Class: altacv 2016/11/21 AltaCV v1.1, yet another alternative class for a résumé/curriculum vitae.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -695,7 +695,7 @@ File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 32.
- (/home/jmt/Documentos/cv/main.aux)
+ (/home/jmt/Documentos/CV_Latex/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -788,7 +788,7 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (/home/jmt/Documentos/cv/main.bbl)
+ (/home/jmt/Documentos/CV_Latex/main.bbl)
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
 \c@mv@tabular=\count431
@@ -806,7 +806,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
- (/home/jmt/Documentos/cv/main.out) (/home/jmt/Documentos/cv/main.out)
+ (/home/jmt/Documentos/CV_Latex/main.out) (/home/jmt/Documentos/CV_Latex/main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
@@ -850,7 +850,7 @@ Overfull \hbox (24.18456pt too wide) in paragraph at lines 49--49
 [][] 
  []
 
-(/home/jmt/Documentos/cv/page1sidebar.tex
+(/home/jmt/Documentos/CV_Latex/page1sidebar.tex
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 2.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
@@ -866,7 +866,7 @@ LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 73.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/jmt/Documentos/cv/perfil.jpg>] (/home/jmt/Documentos/cv/main.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/jmt/Documentos/CV_Latex/perfil.jpg>] (/home/jmt/Documentos/CV_Latex/main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -875,14 +875,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  30614 strings out of 479294
- 625605 string characters out of 5869569
- 1354298 words of memory out of 5000000
+ 625719 string characters out of 5869569
+ 1354299 words of memory out of 5000000
  47331 multiletter control sequences out of 15000+600000
  650521 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,9n,130p,1173b,808s stack positions out of 5000i,500n,10000p,200000b,200000s
+ 128i,9n,130p,1179b,808s stack positions out of 5000i,500n,10000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on /home/jmt/Documentos/cv/main.pdf (1 page, 147889 bytes).
+Output written on /home/jmt/Documentos/CV_Latex/main.pdf (1 page, 147889 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream

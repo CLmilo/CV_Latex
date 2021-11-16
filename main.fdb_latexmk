@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1636878248 "main.bcf" "main.bbl" "main" 1636878252
-  "main.bcf" 1636878252 106559 f16288d389067c86caa9422f1ade5848 "pdflatex"
+["biber main"] 1636878248 "main.bcf" "main.bbl" "main" 1637076113
+  "main.bcf" 1637076112 106559 f16288d389067c86caa9422f1ade5848 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1636878251 "/home/jmt/Documentos/cv/main.tex" "/home/jmt/Documentos/cv/main.pdf" "main" 1636878252
+["pdflatex"] 1637076111 "/home/jmt/Documentos/CV_Latex/main.tex" "/home/jmt/Documentos/CV_Latex/main.pdf" "main" 1637076113
   "/etc/texmf/web2c/texmf.cnf" 1636157528 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jmt/Documentos/cv/main.aux" 1636878252 1161 20fbd2e6c39e98d244b822e84ceb16a6 ""
-  "/home/jmt/Documentos/cv/main.tex" 1636878240 3421 2a91c6f7cf34672f38dfd977c4f80e6f ""
+  "/home/jmt/Documentos/CV_Latex/main.aux" 1637076112 1161 20fbd2e6c39e98d244b822e84ceb16a6 ""
+  "/home/jmt/Documentos/CV_Latex/main.tex" 1636878240 3421 2a91c6f7cf34672f38dfd977c4f80e6f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1585083055 2911 7adff171bd8c0a41152be2ab1520c87f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1585083055 3082 40ae2331673498e66c30044eac8aab6f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1585083055 3040 a74211a8f4718d9997628e5616b4ef48 ""
@@ -199,19 +199,19 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1636867049 5160710 ecf427ae8fa19139d8691f526e47bb9b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1636867104 2567699 cdd43660221b95eb6a0e9d43add6eb9c ""
   "altacv.cls" 1636878248 8714 5d8fcfdc291cd7f6fbdfe664dbd68051 ""
-  "main.aux" 1636878252 1161 20fbd2e6c39e98d244b822e84ceb16a6 "pdflatex"
+  "main.aux" 1637076112 1161 20fbd2e6c39e98d244b822e84ceb16a6 "pdflatex"
   "main.bbl" 1636878249 466 f7f239c736cf01ac6ce7bd829f9b3c7b "biber main"
-  "main.out" 1636878252 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1636878252 2307 8845b0ade2d45e62d45995dec6ec4831 "pdflatex"
+  "main.out" 1637076112 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1637076112 2307 8845b0ade2d45e62d45995dec6ec4831 "pdflatex"
   "main.tex" 1636878240 3421 2a91c6f7cf34672f38dfd977c4f80e6f ""
   "page1sidebar.tex" 1636878030 1412 36bb23c78d2638c7a6c55a8d502d197f ""
   "perfil.jpg" 1636876103 32207 34d7da4764d70dba0f8a1d3bc9830bc2 ""
   (generated)
-  "main.run.xml"
   "main.out"
-  "/home/jmt/Documentos/cv/main.log"
-  "main.aux"
-  "main.pdf"
   "main.log"
+  "main.run.xml"
+  "main.pdf"
+  "main.aux"
+  "/home/jmt/Documentos/CV_Latex/main.pdf"
+  "/home/jmt/Documentos/CV_Latex/main.log"
   "main.bcf"
-  "/home/jmt/Documentos/cv/main.pdf"
