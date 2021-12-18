@@ -1,0 +1,9 @@
+PWD /home/jmt/repos/CV_Latex/cv_sin_foto_2022/sections
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/jmt/repos/CV_Latex/cv_sin_foto_2022/sections/certificados.tex
+OUTPUT /home/jmt/repos/CV_Latex/cv_sin_foto_2022/sections/certificados.log
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
